@@ -1,3 +1,14 @@
+# Custom config
+
+## Hardware
+
+- **Printer**: Annet A8
+- **IOboard**: Ramps 1.4
+- **Compute**: Arduino Mega AT2560
+- **Driver**: A4988
+- **Screen**: LCD 12864
+
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
